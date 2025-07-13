@@ -10,6 +10,7 @@ This is a front-end clone of the Amazon homepage built using **pure HTML and CSS
 
 ---
 ✨ Author
+
 Likhitha D
 
 GitHub: @likhitha9961
